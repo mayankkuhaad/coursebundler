@@ -1,0 +1,11 @@
+.container{
+    height : 100vh;
+    padding: 5rem;
+    box-sizing: border-box;
+}
+.vector-graphics{
+    filter : drop-shadow(0 40px 10px rgba(0,0,0,0.3))
+}
+@keyframes vectorAnimation{
+    
+}
